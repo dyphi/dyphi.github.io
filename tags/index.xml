@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dyphi Website</title>
-    <link>http://dyphi.com/tags/</link>
+    <link>http://dyphi.github.io/tags/</link>
     <description>Recent content in Tags on Dyphi Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
     
-	<atom:link href="http://dyphi.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dyphi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Go</title>
-      <link>http://dyphi.com/tags/go/</link>
+      <link>http://dyphi.github.io/tags/go/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>http://dyphi.com/tags/go/</guid>
+      <guid>http://dyphi.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://dyphi.com/tags/golang/</link>
+      <link>http://dyphi.github.io/tags/golang/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>http://dyphi.com/tags/golang/</guid>
+      <guid>http://dyphi.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://dyphi.com/tags/hugo/</link>
+      <link>http://dyphi.github.io/tags/hugo/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>http://dyphi.com/tags/hugo/</guid>
+      <guid>http://dyphi.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ipsum</title>
-      <link>http://dyphi.com/tags/ipsum/</link>
+      <link>http://dyphi.github.io/tags/ipsum/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>http://dyphi.com/tags/ipsum/</guid>
+      <guid>http://dyphi.github.io/tags/ipsum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>http://dyphi.com/tags/programming/</link>
+      <link>http://dyphi.github.io/tags/programming/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>http://dyphi.com/tags/programming/</guid>
+      <guid>http://dyphi.github.io/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
-      <link>http://dyphi.com/tags/theme/</link>
+      <link>http://dyphi.github.io/tags/theme/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>http://dyphi.com/tags/theme/</guid>
+      <guid>http://dyphi.github.io/tags/theme/</guid>
       <description></description>
     </item>
     
